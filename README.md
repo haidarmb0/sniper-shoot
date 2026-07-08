@@ -22,3 +22,6 @@ sniper-shoot/
 ## Author
 
 Aliyu Muhammad
+## Version
+
+v0.1
