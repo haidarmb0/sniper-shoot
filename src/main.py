@@ -7,3 +7,5 @@ ammo = 5
 print("Player:", player_name)
 print("Score:", score)
 print("Ammo:", ammo)
+score = 100
+print("New Score:", score)
