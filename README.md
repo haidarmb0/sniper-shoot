@@ -1,9 +1,24 @@
 # Sniper Shoot
 
-My first GitHub project.
+Sniper Shoot is a target shooting game where players test their accuracy and precision.
 
-## About
-This is a sniper shooting game that I am creating while learning game development and GitHub.
+## Features
+- Long-range sniper shooting
+- Zoom system
+- Score system (100, 80, 60, 40, 20)
+- Limited ammo
+- Bronze to Diamond rank progression
+
+## Project Structure
+
+```
+sniper-shoot/
+├── README.md
+├── assets/
+├── src/
+└── docs/
+```
 
 ## Author
-Haidarmb0
+
+Aliyu Muhammad
